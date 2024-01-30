@@ -7,9 +7,9 @@
 
 - 📝 Eu escrevi isso [https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582](https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582)
 
-- 📫 Me contate **gabrielamdesalvo@gmail.com**
-
 - 📄 e isso: [https://medium.com/@gabrielamdesalvo/desenvolvimento-usando-trunk-based-1a0795b0737e](https://medium.com/@gabrielamdesalvo/desenvolvimento-usando-trunk-based-1a0795b0737e)
+
+- 📫 Me contate **gabrielamdesalvo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
