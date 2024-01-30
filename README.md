@@ -3,7 +3,7 @@
 
 - Atualmente trabalho na [Onze](https://www.onze.com.br/)
 
-- Atualmente estou aprendendo **análise de dados, python e mais testes**
+- Estou aprendendo **análise de dados, python e me aprofundando em testes**
 
 - 📝 Eu escrevi isso [https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582](https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582)
 
