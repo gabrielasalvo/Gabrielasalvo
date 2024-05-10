@@ -1,10 +1,12 @@
 <h1 align="center">Oi, eu sou a Gabriela</h1>
 <h3 align="center">Engenheira de Software</h3>
 
-- Atualmente trabalho na [Onze](https://www.onze.com.br/)
 
-- Estou aprendendo **análise de dados, python e me aprofundando em testes**
 
+ "Dont just fail.
+ Fail as quickly and pick up and try something different as fast as you can"
+
+ 
 - 📝 Eu escrevi isso [https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582](https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582)
 
 - 📄 e isso: [https://medium.com/@gabrielamdesalvo/desenvolvimento-usando-trunk-based-1a0795b0737e](https://medium.com/@gabrielamdesalvo/desenvolvimento-usando-trunk-based-1a0795b0737e)
