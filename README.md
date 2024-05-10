@@ -4,7 +4,7 @@
 
 
  "Dont just fail.
- Fail as quickly and pick up and try something different as fast as you can"
+ Fail quickly and pick up and try something different as fast as you can"
 
  
 - 📝 Eu escrevi isso [https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582](https://medium.com/@gabrielamdesalvo/fluxo-de-dados-no-react-4fc584480582)
